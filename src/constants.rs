@@ -9,6 +9,7 @@ pub const BOTTOM: u8 = 0xfb;
 pub const LF: u8 = 0xfc;
 pub const NEXT: u8 = 0xfd;
 pub const RETURN: u8 = 0xfe;
+pub const INSERT: u8 = 0xf9;
 
 pub const FACTORY: [u8; 3] = [0xF0, 0x45, 0xEE];
 pub const OCCASION: [u8; 3] = [0xEE, 0xF0, 0xA8];
