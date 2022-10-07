@@ -428,6 +428,7 @@ pub static CHARMAP: phf::Map<&'static str, u16> = phf_map! {
   "的"=> 0xF0A7,
   "足"=> 0xF0A9,
   "通"=> 0xF0AA,
+  "考"=> 0xF0AC,
   "開"=> 0xF0AD,
   "改"=> 0xF0AE,
   "造"=> 0xF0AF,
