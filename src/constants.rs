@@ -337,6 +337,7 @@ pub static CHARMAP: phf::Map<&'static str, u16> = phf_map! {
   "終"=> 0xF036,
   "動"=> 0xF038,
   "止"=> 0xF039,
+  "色"=> 0xF03A,
   "右"=> 0xF03B,
   "左"=> 0xF03C,
   "上"=> 0xF03D,
