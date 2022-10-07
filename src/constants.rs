@@ -408,6 +408,7 @@ pub static CHARMAP: phf::Map<&'static str, u16> = phf_map! {
   "体"=> 0xF090,
   "倍"=> 0xF091,
   "巨"=> 0xF092,
+  "続"=> 0xF094,
   "界"=> 0xF095,
   "永"=> 0xF096,
   "仲"=> 0xF097,
